@@ -4,9 +4,8 @@ Right now I am studying Data Science Specialization created by Johns Hopkins on 
 https://www.coursera.org/specializations/jhu-data-science 
 
 ## Certificates of Completion On Lynda  
-Below is the official cetificates of completion page: 
-https://www.lynda.com/AllCertificates/User/9095801  
-
+###Below is the official cetificates of completion page: 
+  
 *  MySQL Essential Training 
 https://www.lynda.com/ViewCertificate/E221B9C6753A4A86B9C21B41691E7848?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
 
