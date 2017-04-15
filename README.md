@@ -1,4 +1,4 @@
-# datasciencecoursera
+# Data Science
 ## Data Science Specialization
 Right now I am studying Data Science Specialization created by Johns Hopkins on Coursera. This specialization covers the concepts and tools I will need throughout the entire data science pipline, from asking the right kinds of questions to making inferences and publishing results.
 https://www.coursera.org/specializations/jhu-data-science 
