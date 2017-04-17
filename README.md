@@ -5,7 +5,7 @@ https://www.coursera.org/specializations/jhu-data-science
 
 ## Certificates of Completion On Lynda  
 
-### elow is the official certificates of completion page: 
+### Below is the official certificates of completion page: 
   
 *  MySQL Essential Training 
 https://www.lynda.com/ViewCertificate/E221B9C6753A4A86B9C21B41691E7848?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
