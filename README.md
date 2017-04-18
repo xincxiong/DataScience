@@ -31,5 +31,24 @@ https://www.coursera.org/specializations/jhu-data-science
 * Learning Python Web Penetration Testing
 [Learning Python Web Penetration Testing](https://www.lynda.com/ViewCertificate/0EABCBFD3B6743F5BBFEF179D0A536AA?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate)
 
+* Python for Data Science Essential Training
+[Python for Data Science Essential Training](https://www.lynda.com/ViewCertificate/E4C78BD956144E91AD125F8B38E45CD7?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate)
 
+* Code Clinic:Python
+[Code Clinic:Python](https://www.lynda.com/ViewCertificate/5E2DCF1FE96C494D995397B1631EE7D3?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate)
+
+* Learning Raspberry Pi 
+[Learning Raspberry Pi](https://www.lynda.com/ViewCertificate/329455592A384A50A2F0D7276D5DD6A9?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate)
+
+* Python GUI Development with Tkinter
+[Python GUI Development with Tkinter](https://www.lynda.com/ViewCertificate/EAA3D413C87B48E3876BBCE4E9E2D57C?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate)
+
+* Learning Python and Django
+[Learning Python and Django](https://www.lynda.com/ViewCertificate/AB44310059E845C18D4F29E08FECBE2A?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate)
+
+* Learning Web Analytics
+[Learning Web Analytics](https://www.lynda.com/ViewCertificate/D95A4D9D74D74992BC4032497025E4D1?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate)
+
+* Learning Python Web Penetration Testing 
+[Learning Python Web Penetration Testing](https://www.lynda.com/ViewCertificate/0EABCBFD3B6743F5BBFEF179D0A536AA?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate)
 
